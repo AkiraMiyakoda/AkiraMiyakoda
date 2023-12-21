@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=AkiraMiyakoda&count_private=true&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraMiyakoda&layout=compact&hide=vala,meson)  
+![](https://github-readme-stats.vercel.app/api?username=AkiraMiyakoda&count_private=true&show_icons=true&include_all_commits=true&show=prs_merged) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkiraMiyakoda&layout=compact&langs_count=10)  
 
 <!--
 **AkiraMiyakoda/AkiraMiyakoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
